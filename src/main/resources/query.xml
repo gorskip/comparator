@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testData>
+    <resultLimit>5</resultLimit>
+    <queryData name="test">
+        <query>select * from table</query>
+        <keyColumns>RECORD_ID,STATIC_ID</keyColumns>
+        <columnsToBeChecked>RANDOM_NAME</columnsToBeChecked>
+    </queryData>
+</testData>
